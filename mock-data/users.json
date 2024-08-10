@@ -1,0 +1,402 @@
+[
+    {
+      "id": 1,
+      "name": "John Doe",
+      "username": "johndoe",
+      "email": "johndoe@example.com",
+      "tweets": 234,
+      "followers": 1200
+    },
+    {
+      "id": 2,
+      "name": "Jane Smith",
+      "username": "janesmith",
+      "email": "janesmith@example.com",
+      "tweets": 456,
+      "followers": 950
+    },
+    {
+      "id": 3,
+      "name": "Alice Johnson",
+      "username": "alicej",
+      "email": "alicej@example.com",
+      "tweets": 678,
+      "followers": 1320
+    },
+    {
+      "id": 4,
+      "name": "Robert Brown",
+      "username": "robbrown",
+      "email": "robbrown@example.com",
+      "tweets": 890,
+      "followers": 750
+    },
+    {
+      "id": 5,
+      "name": "Emily Davis",
+      "username": "emilyd",
+      "email": "emilyd@example.com",
+      "tweets": 102,
+      "followers": 540
+    },
+    {
+      "id": 6,
+      "name": "Michael Wilson",
+      "username": "michaelw",
+      "email": "michaelw@example.com",
+      "tweets": 345,
+      "followers": 870
+    },
+    {
+      "id": 7,
+      "name": "Sarah Miller",
+      "username": "sarahm",
+      "email": "sarahm@example.com",
+      "tweets": 567,
+      "followers": 1100
+    },
+    {
+      "id": 8,
+      "name": "David Lee",
+      "username": "davidl",
+      "email": "davidl@example.com",
+      "tweets": 789,
+      "followers": 990
+    },
+    {
+      "id": 9,
+      "name": "Laura Wilson",
+      "username": "lauraw",
+      "email": "lauraw@example.com",
+      "tweets": 123,
+      "followers": 650
+    },
+    {
+      "id": 10,
+      "name": "James Taylor",
+      "username": "jamest",
+      "email": "jamest@example.com",
+      "tweets": 234,
+      "followers": 870
+    },
+    {
+      "id": 11,
+      "name": "Olivia Martin",
+      "username": "oliviam",
+      "email": "oliviam@example.com",
+      "tweets": 456,
+      "followers": 1020
+    },
+    {
+      "id": 12,
+      "name": "Ethan Anderson",
+      "username": "ethana",
+      "email": "ethana@example.com",
+      "tweets": 567,
+      "followers": 1110
+    },
+    {
+      "id": 13,
+      "name": "Ava Thomas",
+      "username": "avat",
+      "email": "avat@example.com",
+      "tweets": 678,
+      "followers": 850
+    },
+    {
+      "id": 14,
+      "name": "Isabella White",
+      "username": "isabellaw",
+      "email": "isabellaw@example.com",
+      "tweets": 890,
+      "followers": 920
+    },
+    {
+      "id": 15,
+      "name": "Alexander Harris",
+      "username": "alexanderh",
+      "email": "alexanderh@example.com",
+      "tweets": 234,
+      "followers": 620
+    },
+    {
+      "id": 16,
+      "name": "Sophia Clark",
+      "username": "sophiac",
+      "email": "sophiac@example.com",
+      "tweets": 456,
+      "followers": 780
+    },
+    {
+      "id": 17,
+      "name": "Mia Lewis",
+      "username": "mial",
+      "email": "mial@example.com",
+      "tweets": 678,
+      "followers": 840
+    },
+    {
+      "id": 18,
+      "name": "Charlotte Walker",
+      "username": "charlottew",
+      "email": "charlottew@example.com",
+      "tweets": 890,
+      "followers": 1320
+    },
+    {
+      "id": 19,
+      "name": "Amelia Hall",
+      "username": "ameliah",
+      "email": "ameliah@example.com",
+      "tweets": 234,
+      "followers": 470
+    },
+    {
+      "id": 20,
+      "name": "Liam King",
+      "username": "liamk",
+      "email": "liamk@example.com",
+      "tweets": 345,
+      "followers": 990
+    },
+    {
+      "id": 21,
+      "name": "Mason Wright",
+      "username": "masonw",
+      "email": "masonw@example.com",
+      "tweets": 567,
+      "followers": 1110
+    },
+    {
+      "id": 22,
+      "name": "Ella Scott",
+      "username": "ellas",
+      "email": "ellas@example.com",
+      "tweets": 678,
+      "followers": 870
+    },
+    {
+      "id": 23,
+      "name": "Lucas Young",
+      "username": "lucasy",
+      "email": "lucasy@example.com",
+      "tweets": 789,
+      "followers": 980
+    },
+    {
+      "id": 24,
+      "name": "Henry Green",
+      "username": "henryg",
+      "email": "henryg@example.com",
+      "tweets": 123,
+      "followers": 670
+    },
+    {
+      "id": 25,
+      "name": "Harper Adams",
+      "username": "harpera",
+      "email": "harpera@example.com",
+      "tweets": 234,
+      "followers": 810
+    },
+    {
+      "id": 26,
+      "name": "Jack Baker",
+      "username": "jackb",
+      "email": "jackb@example.com",
+      "tweets": 345,
+      "followers": 990
+    },
+    {
+      "id": 27,
+      "name": "Evelyn Nelson",
+      "username": "evelynn",
+      "email": "evelynn@example.com",
+      "tweets": 456,
+      "followers": 710
+    },
+    {
+      "id": 28,
+      "name": "Benjamin Carter",
+      "username": "benjaminc",
+      "email": "benjaminc@example.com",
+      "tweets": 567,
+      "followers": 1220
+    },
+    {
+      "id": 29,
+      "name": "Lucy Mitchell",
+      "username": "lucym",
+      "email": "lucym@example.com",
+      "tweets": 678,
+      "followers": 900
+    },
+    {
+      "id": 30,
+      "name": "Oliver Perez",
+      "username": "oliverp",
+      "email": "oliverp@example.com",
+      "tweets": 890,
+      "followers": 1100
+    },
+    {
+      "id": 31,
+      "name": "Sebastian Rivera",
+      "username": "sebastianr",
+      "email": "sebastianr@example.com",
+      "tweets": 234,
+      "followers": 650
+    },
+    {
+      "id": 32,
+      "name": "William Sanchez",
+      "username": "williams",
+      "email": "williams@example.com",
+      "tweets": 345,
+      "followers": 980
+    },
+    {
+      "id": 33,
+      "name": "Elijah Ramirez",
+      "username": "elijahr",
+      "email": "elijahr@example.com",
+      "tweets": 456,
+      "followers": 1050
+    },
+    {
+      "id": 34,
+      "name": "Victoria Gomez",
+      "username": "victoriag",
+      "email": "victoriag@example.com",
+      "tweets": 567,
+      "followers": 1170
+    },
+    {
+      "id": 35,
+      "name": "Matthew Diaz",
+      "username": "matthewd",
+      "email": "matthewd@example.com",
+      "tweets": 678,
+      "followers": 830
+    },
+    {
+      "id": 36,
+      "name": "Sofia Morales",
+      "username": "sofiam",
+      "email": "sofiam@example.com",
+      "tweets": 789,
+      "followers": 940
+    },
+    {
+      "id": 37,
+      "name": "Daniel Gutierrez",
+      "username": "danielg",
+      "email": "danielg@example.com",
+      "tweets": 123,
+      "followers": 680
+    },
+    {
+      "id": 38,
+      "name": "Grace Flores",
+      "username": "gracef",
+      "email": "gracef@example.com",
+      "tweets": 234,
+      "followers": 890
+    },
+    {
+      "id": 39,
+      "name": "Jacob Torres",
+      "username": "jacobt",
+      "email": "jacobt@example.com",
+      "tweets": 345,
+      "followers": 1000
+    },
+    {
+      "id": 40,
+      "name": "Aiden Murphy",
+      "username": "aidenm",
+      "email": "aidenm@example.com",
+      "tweets": 456,
+      "followers": 770
+    },
+    {
+      "id": 41,
+      "name": "Natalie Rivera",
+      "username": "natalier",
+      "email": "natalier@example.com",
+      "tweets": 567,
+      "followers": 920
+    },
+    {
+      "id": 42,
+      "name": "Carter Martinez",
+      "username": "carterm",
+      "email": "carterm@example.com",
+      "tweets": 678,
+      "followers": 1080
+    },
+    {
+      "id": 43,
+      "name": "Luna Garcia",
+      "username": "lunag",
+      "email": "lunag@example.com",
+      "tweets": 890,
+      "followers": 860
+    },
+    {
+      "id": 44,
+      "name": "Victoria Thomas",
+      "username": "victoriat",
+      "email": "victoriat@example.com",
+      "tweets": 234,
+      "followers": 710
+    },
+    {
+      "id": 45,
+      "name": "Logan Davis",
+      "username": "logand",
+      "email": "logand@example.com",
+      "tweets": 345,
+      "followers": 930
+    },
+    {
+      "id": 46,
+      "name": "Zoe Rodriguez",
+      "username": "zoer",
+      "email": "zoer@example.com",
+      "tweets": 456,
+      "followers": 1150
+    },
+    {
+      "id": 47,
+      "name": "Jayden Lopez",
+      "username": "jaydenl",
+      "email": "jaydenl@example.com",
+      "tweets": 567,
+      "followers": 1070
+    },
+    {
+      "id": 48,
+      "name": "Madison Hernandez",
+      "username": "madisonh",
+      "email": "madisonh@example.com",
+      "tweets": 678,
+      "followers": 910
+    },
+    {
+      "id": 49,
+      "name": "Luke Wilson",
+      "username": "lukew",
+      "email": "lukew@example.com",
+      "tweets": 789,
+      "followers": 850
+    },
+    {
+      "id": 50,
+      "name": "Abigail Martinez",
+      "username": "abigailm",
+      "email": "abigailm@example.com",
+      "tweets": 123,
+      "followers": 630
+    }
+  ]
